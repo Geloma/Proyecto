@@ -1,1 +1,1 @@
-
+gcc -Wall -std=c99 -o Proyecto.out Main.c Evento.c Ticket.c 
